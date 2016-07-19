@@ -25,7 +25,7 @@ var compiler = webpack({
     platform: './lib/platform.js',
   }, SUB_MODULES),
   output: {
-    path: path.join(__dirname),
+    path: path.join(__dirname, 'build'),
     filename: "[name].js",
     library: "[name].js",
     libraryTarget: "umd",
