@@ -2,7 +2,7 @@
   "name": "@r/platform",
   "version": "0.8.2",
   "description": "A set of tools to enable easy universal rendering and page navigation on a React + Redux stack",
-  "main": "build/platform.js",
+  "main": "platform.js",
   "scripts": {
     "lint": "eslint lib",
     "build": "node compile.js",
