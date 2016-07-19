@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nramadas/r-platform.git"
+    "url": "git+https://github.com/reddit/node-platform.git"
   },
   "keywords": [
     "reddit",
@@ -21,9 +21,9 @@
   "author": "nramadas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nramadas/r-platform/issues"
+    "url": "https://github.com/reddit/node-platform/issues"
   },
-  "homepage": "https://github.com/nramadas/r-platform#readme",
+  "homepage": "https://github.com/reddit/node-platform#readme",
   "dependencies": {
     "chai": "3.5.0",
     "chai-enzyme": "0.4.2",
